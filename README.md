@@ -2,7 +2,7 @@
 Add an author credit (or any desired text) to an existing figure or plot image using Python. Built by [Ellie Schwab](https://twitter.com/SeeTheStarsRise). Licensed under the MIT license (see LICENSE).
 
 ##Installation
-Run "pip install credit_figure" to get the latest version.
+Run ```pip install credit_figure``` to get the latest version.
 
 ##Usage
 There is only one function credit_figure. You use it like this:
